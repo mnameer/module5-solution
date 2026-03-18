@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Academic Spotlight: Muhammed Nameer K K</title>
+</head>
+<body style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.6; color: #333; margin: 0; background-color: #f9f9f9;">
+
+    <!-- Navigation Header -->
+    <header style="background: #1a2a6c; color: white; padding: 15px 5%; display: flex; justify-content: space-between; align-items: center;">
+        <div style="font-weight: bold; font-size: 1.2rem;">UNIVERSITY SCHOLAR PROFILE</div>
+        <nav>Cycle: 2021 Entrance</nav>
+    </header>
+
+    <!-- Hero Banner -->
+    <section style="background: linear-gradient(135deg, #1a2a6c, #b21f1f, #fdbb2d); color: white; padding: 60px 10%; text-align: center;">
+        <h1 style="font-size: 2.8rem; margin-bottom: 10px;">MUHAMMED NAMEER K K</h1>
+        <p style="font-size: 1.4rem; font-weight: 300;">Maestro of Computation | M.Sc. Computer Science</p>
+    </section>
+
+    <!-- Achievement Dashboard -->
+    <div style="max-width: 900px; margin: -40px auto 40px; background: white; padding: 30px; display: flex; justify-content: space-around; border-radius: 8px; box-shadow: 0 4px 20px rgba(0,0,0,0.1);">
+        <div style="text-align: center;">
+            <div style="font-size: 0.9rem; color: #666; text-transform: uppercase;">Final Rank</div>
+            <div style="font-size: 2.5rem; font-weight: bold; color: #b21f1f;">01</div>
+        </div>
+        <div style="border-left: 1px solid #eee;"></div>
+        <div style="text-align: center;">
+            <div style="font-size: 0.9rem; color: #666; text-transform: uppercase;">Entrance Score</div>
+            <div style="font-size: 2.5rem; font-weight: bold; color: #1a2a6c;">80.00</div>
+        </div>
+        <div style="border-left: 1px solid #eee;"></div>
+        <div style="text-align: center;">
+            <div style="font-size: 0.9rem; color: #666; text-transform: uppercase;">Institution</div>
+            <div style="font-size: 1.1rem; font-weight: bold; padding-top: 10px;">University of Calicut</div>
+        </div>
+    </div>
+
+    <!-- Editorial Content -->
+    <main style="max-width: 800px; margin: 0 auto; padding: 20px; background: white; border-radius: 8px;">
+        <h2 style="border-bottom: 2px solid #fdbb2d; display: inline-block; padding-bottom: 5px;">A Victory in Binary</h2>
+        <p style="font-size: 1.1rem; color: #444; font-style: italic;">
+            "His victory is a sonnet written in binary code, a score of 80.00 serving as his triumphant chorus."
+        </p>
+        <p>
+            In the hallowed halls where logic meets innovation, <strong>Muhammed Nameer K K</strong> rose above a sea of aspiring digital architects. He didn't just walk the path of M.Sc. Computer Science at the University of Calicut—he conquered it. 
+        </p>
+        <p>
+            By seizing the pinnacle of achievement—the <strong>First Rank</strong> in the 2021 entrance cycle—he has become the undisputed champion of the program. His intellectual prowess stands as a beacon of excellence, illuminating the university's esteemed rank list and setting a new standard for future scholars.
+        </p>
+    </main>
+
+    <footer style="text-align: center; padding: 40px; color: #999; font-size: 0.8rem;">
+        &copy; 2026 Academic Achievement Registry | University of Calicut Entrance Records
+    </footer>
+
+</body>
+</html>
